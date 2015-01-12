@@ -1,0 +1,2 @@
+class LocationRangeError(Exception):
+    pass
